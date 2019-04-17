@@ -14,3 +14,11 @@ L
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 ?
 views/index.ejs,4/9/496c03b4d5f1774ceafd2fb8b05f3c5113512c61
+G
+views/partials/head.ejs,f/a/fa052df8de427053ec16f2fadcc6c211287ab638
+R
+"views/partials/booking-section.ejs,7/2/728c12425929a5fd5ee760b61de81dccf541212c
+I
+views/partials/footer.ejs,1/2/12e5eb8376bd53293e479165861eabbff9b3d746
+F
+views/partials/nav.ejs,a/1/a15e4c20d05b0b07ad98d643afac04a6d37a5afb

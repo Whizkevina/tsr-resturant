@@ -1,12 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script:400,700|PT+Serif:400,400i,700');
-/*
-=========================================
-=========================================
 
-Italiano By BootstrapTemple.com
-
-=========================================
-========================================= */
 /* variant 1 - Default */
 @media (min-width: 768px) {
   .navbar.shrink {
@@ -748,7 +741,7 @@ section.about::before {
   content: '';
   display: block;
   background-position: center center;
-  background: url(../img/dish-d.png) no-repeat;
+ /* background: url(../img/dish-d.png) no-repeat; */
   background-size: 100%;
   position: absolute;
   max-width: 300px;
